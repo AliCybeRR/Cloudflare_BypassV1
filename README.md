@@ -1,4 +1,4 @@
-#  [ Cloudflare_Bypass v.1 ]
+#[Cloudflare_Bypass v.1]
 
 🇮🇷AliCybeRR🇮🇷 
 
