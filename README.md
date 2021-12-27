@@ -1,6 +1,8 @@
-#[Cloudflare_Bypass v.1]
+# [ Cloudflare_Bypass v.1 ]
 
 🇮🇷AliCybeRR🇮🇷 
+Coder => HOSEIN MV
+Debuger => AliCybeRR
 
 # [ AliCybeRR.Bypass feature ]
 - [x] support Termux ❕
