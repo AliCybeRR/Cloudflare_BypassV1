@@ -21,9 +21,9 @@ $ apt install python -y
 
 $ apt install git
 
-$ git clone https://github.com/AliCybeRR/
+$ git clone https://github.com/AliCybeRR/Cloudflare_BypassV1
 
-$ cd 
+$ cd Cloudflare_BypassV1
 
 $ pip install -r requirements.txt
 
@@ -38,9 +38,9 @@ $ sudo apt-get upgrade -y
 
 $ sudo apt-get install python3 -y
 
-$ git clone https://github.com/AliCybeRR/
+$ git clone https://github.com/AliCybeRR/Cloudflare_BypassV1
 
-$ cd 
+$ cd Cloudflare_BypassV1
 
 $ pip3 install -r requirements.txt
 
